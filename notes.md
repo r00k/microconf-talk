@@ -2,28 +2,30 @@
 
 ## V4 - Things that worked for me
 
-- Long-time goal of mine. If I'm smiling, that's why.
+- Opener
+  - Long-time goal of mine. If I'm smiling, that's why.
+  - Wake up 
+    - Close laptops
+    - Stretch
+    - Snap, clap, crack on 3
+    - Please keep laptop closed
+  - Interrupt me
 
-- Wake up 
-  - Close laptops
-  - Stretch
-  - Snap, clap, crack on 3
-  - Please keep laptop closed
-
-- Interrupt me
+(takes 3 min to get here)
 
 - Survey results
   - Not about me, about you
+  - V4
   - Customer research
   - Numbers
     - 54% earning from digital product / 46% not
       - Of those, 48% less than $1k/mo, 59% less than $3k/mo
       - Fairly new at this: 59% less than 0-2 years
       - Going to try to help both groups
-    - 26% of you pronounce gif incorrectly
+    - 74% / 26% of you pronounce gif incorrectly
       - Median earnings of businesses started by people that do is twice as high
       - Median age of all respondants is 40, but jif is 36
-      - Jif makes you younger and richer
+      - Not statisticologist, jif makes you younger and richer
   - What are you hoping to get out of talks?
     - Motivation/inspiration
       - Over and over in non-starters
@@ -32,111 +34,76 @@
       - “Someone once asked Somerset Maughham if he wrote on a schedule or only
         when struck by inspiration. "I write only when inspiration strikes," he
         replied. "Fortunately it strikes every morning at nine o'clock sharp.” 
+      - The War of Art, STeven Pressfield
+
+(Got here after 9.5 min total)
+
 - Advice for non-starters
-  - Read The War of Art
-    - "Fear is good. Like self-doubt, fear is an indicator. Fear tells us
-      what we have to do.  The more scared we are of a work or calling, the
-      more sure we can be that we have to do it."
-  - Go on Launchcation
+  - My story of my first dollar online
+    - Had no audience or experience
+    - Started using Vim, got obssessed
+    - Helped coworkers
+    - Lightning talk at the Boston Ruby Group
+    - Gave a full conference talk
+      - Well-attended, people liked it
+    - Becoming the vim guy
+    - Very very niche
+    - Made a screencast for $9 on Shopify
+    - TRANSFORMATIVE
+  - If I were starting over today, here's what I'd do
+    - Step 1: start teaching a topic you care about
+      - What should you teach?
+        - Something that 6-months-ago you would have found useful
+        - Something people ask you for help with
+        - Something you can't stop talking about
+      - How do you teach?
+        - Do a lunch and learn with your coworkers
+        - Give a lightning talk at a meetup
+        - Host a free online workshop
+      - Aim small! Titles:
+        - A Docker Crash Course
+        - Surviving Your First Week in Docker
+        - Docker for Total Beginners
+        - Docker Distilled
+        - Docker for Non-Programmers
+        - What I wish I'd known about Docker 
+        - Why Docker Sucks And What You Want Instead
+      - 2 big wins
+        - Builds an audience who trusts you
+        - Helps you learn more about your customer
+    - Get silent to see who's not listening
+    - Step 2: build an MVP that you can get paid for
+      - Let's say you choose to make an ebook
+      - By the end of the trip, you want to be able to be paid
+      - Get an Airbnb
+        - Get 4 days (intentionally short!)
+        - An hour from your home
+        - Don't get hotel, buy groceries and cook
+      - Write a sample chapter and a table of contents
+      - Sign up for Leanpub
+      - Avoid side quests!
+        - Don't write code.
+        - Don't automate.
+      - Overwhelm/fear/analysis paralysis
+        - Raise your hand if you feel this
+      - Email me if you need help
+
+(Took 24m to get here)
+
+- Clap exercise?
 
 - Advice for started
+  - All the types of things I've created
+    - Screencast
+    - Coaching
+    - Membership site (will soon cross $2M in revenue)
+    - 2 B2C SaaS 
+    - Grown a B2B SaaS from $4k -> $12k
   - Raise prices
-  - Don't automate
-  - Teach a lot
-
-
-- SNIPPETS
-  - How I came to be on stage 
-  - Focus on the things that make me different
-  - Why do I have an audience?
-    - Because I teach
-    - Maybe I can help them get the same advantages that I have?
-
-
-
-
-
-
-
-## V3 - MMORPG
-
-- Long-time goal of mine. If I'm smiling, that's why.
-
-- Wake up 
-  - Close laptops
-  - Stretch
-  - Snap, clap, crack on 3
-  - Please keep laptop closed
-
-* I surveyed you
-* # of responses
-* Will share other facts later
-* More salient is 60%
-  * Three good news
-    * I can help you
-    * It's not that hard
-    * I'm going to tell you exactly what to do
-
-- Interrupt me
-
-- Speakers usually start by talking about themselves
-  - I'm going to start by talking about you
-  - Survey results
-    - Median, oldest, youngest age
-    - Income distribution
-    - Gif pronounciation
-    - People who pronounce correctly are X times more likely to Y  
-    - Most interesting was who earns money from digital products
-
-- Level 0 -> Level 1
-  - Mission: Sell 1 copy of an ebook or screencast to 1 stranger on the internet
-  - Plan: cut scope to ship quickly
-  - Where: Airbnb
-    - Get 4 days (intentionally short!)
-    - Don't get hotel, need to cook.
-  - Who: Just you, or someone else who is launching something.
-    - No cofounder just yet.
-  - What:
-    - Ebook: sell access to a GitHub repository
-      - Leanpub
-    - Screencast: make first two N minutes, sell early access
-  - Picking a topic
-  - Landing page to collect emails
-  - Avoid side quests!
-    - Don't write code.
-    - Don't automate.
-      
-- Level 1 -> Level 2
-  - Options: throw away the thing you created
-
-- Start your first crappy business as quickly as possible
-  - Best way to start a great business is to start a few crappy ones first
-  - You almost certainly don't admire ppl's first business
-
-- 1, 1-2-1, 1-2-3-2-1 clap exercise
-  - Straight
-  - Clap on 5
-  - Clap on 3
-
-## Maybe add?
-
-
-## V2 Todos
-
-- Plan times to walk into the audience
-- Plan a big finish
-
-
-
-
-
-
-## Maybe, 1+?
-
-- 1+
-  - Raise your prices
-    - Your pricing should make you uncomfortable
     - The highest-leverage thing I've done on any product I've worked on is testing pricing
+    - Your pricing should make you uncomfortable
+    - B2B SAAS: $49 / $99 / $249
+    - Info product: $49 / $99 / $249 
     - Specific ideas:
       - Add tiers
       - Hide the lowest tier
@@ -144,25 +111,17 @@
         - Uber
         - Losing $3B/year == $95/second
         - Show graph of new trials
-      - Add an enterprise plan that says "call us", quote the biggest number you can say without laughing
-  - Watch folks sign up for your product
+  - Don't automate
+  - Teach a lot
 
 
+- IDEAS/TODOS/SNIPPETS
+  - How I came to be on stage 
+  - Focus on the things that make me different
+  - Why do I have an audience?
+    - Because I teach
+    - Maybe I can help them get the same advantages that I have?
 
-
-
-
-### How to pay off MicroConf
-
-Promise to run a pricing test
-  1. Add tiers
-  2. Hide the lowest tier
-      FormKeep
-      Uber
-      Losing $3B/year == $95/second
-      Show graph of new trials
-  3. Add an enterprise plan that says "call us", quote the biggest number you
-     can say without laughing
 
 #### Pricing rules of thumb
 
@@ -216,7 +175,6 @@ Promise to run a pricing test
 
 - Upcase (other way)
   "If you had a cheaper plan I could leave it going, rather than cancel"
-
 
 
 ## Onboarding

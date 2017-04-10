@@ -38,11 +38,12 @@
     - Gave a full conference talk
       - Well-attended, people liked it
     - Becoming the vim guy
-    - Very very niche
     - Made a screencast for $9 on Shopify
+    - Vim for Rails Devs, very niche
     - TRANSFORMATIVE
   - If I were starting over today, here's what I'd do
-    - Step 1: start teaching a topic you care about
+    - There are two phases
+    - Phase 1: start teaching a topic you care about
       - What should you teach?
         - Something that 6-months-ago you would have found useful
         - Something people ask you for help with
@@ -58,12 +59,12 @@
         - Docker Distilled
         - Docker for Non-Programmers
         - What I wish I'd known about Docker
-        - Why Docker Sucks And What You Want Instead
+        - Why Docker Sucks And What To Use Instead
       - 2 big wins
         - Builds an audience who trusts you
         - Helps you learn more about your customer
     - Get silent to see who's not listening
-    - Step 2: build an MVP that you can get paid for
+    - Phase 2: build an MVP that you can get paid for
       - Let's say you choose to make an ebook
       - By the end of the trip, you want to be able to be paid
       - Get an Airbnb
@@ -91,42 +92,69 @@
 
 - Clap exercise
 
+- Home stretch! 
+
 - Advice for started
   - Raise prices
-    - FormKeep story
+    - FormKeep's pricing models
       - Pay what you want
       - Honor system $9 personal / $29 commercial
       - $19 / form / month
         - Penalized our best customers
       - Tiers, bottom is $29 (huge win)
       - Uber
-      - Losing $3B/year == $95/second
-    - B2B SAAS: $49 / $99 / $249
-    - Info product: $49 / $99 / $249
-    - I like tiers
-      - Developers love metered pricing $3.4 pico dollars per instance hour per month
-      - Real people like predictable pricing
-  - Do things that don't scale
-    - Manual onboarding of first 50 Briefs customers
+        - Losing $3B/year == $95/second
+        - Paying us $29 / month
+        - Hid lowest tier, now it's $59/month
+        - New trials went down slightly, but more than made up for in ARPU
+    - Upcase, other way
+      - We had 18%-20% churn constantly
+      - "If it were cheap I'd stay subscribed"
+      - Dropped $99 -> $29
+      - Guess what happened
+        - Huge revenue hit
+        - Churn went up
+        - Quality of forum discussion went down
+      - Oops: should have TESTED, duh.
+    - Concrete advice:
+      - Put a reminder on your calendar for every 6 months to test pricing
+      - Here's your first test: double your prices
+        - Don't even have to charge new amount, just update pricing page
+    - Bad reasons to not raise your prices
+      - It hurts your feelings when people say it's too expensive.
+      - You don't understand how businesses buy things:
+        https://training.kalzumeus.com/newsletters/archive/saas_pricing
+        The $80 delta makes absolutely no difference to the decisionmaker at the
+        agency. To you or me, $80 means a very nice dinner for that special someone.
+        To an employee, $80 of the company's money means absolutely nothing:
+        compared next to non-software items on the budget (e.g. a single employee's
+        salary) it is a joke, and economizing for the $80 a month a) achieves no
+        substantial business goal, b) does not result in a pat-on-the-head from the
+        boss, and c) does not result in the employee getting to go out to a marginal
+        dinner." (from patio11 post)
+      - Your competitor charges less
+        - FormKeep has a competitor that charges $9.99, none of our customers have heard of them
+          - They're cheap but bad at marketing, so their pricing is irrelevant
+      - You know how simple your code is
 
+- Conclusion
+  - That's my talk
+  - If you haven't started yet
+    - Don't wait for inspiration, just start
+    - When you start, begin by teaching
+    - When you make your product, start small
+  - If you have started
+    - Put a reminder on your calendar to test pricing ever 6 months
+    - When you test, prefer tests that raise prices
+  - If you're in either group and you need help: email me
 
 - IDEAS/TODOS/SNIPPETS
-  - I have stickers
-  - How I came to be on stage
   - Focus on the things that make me different
+  - Do things that don't scale
+    - Manual onboarding of first 50 Briefs customers
   - Why do I have an audience?
     - Because I teach
     - Maybe I can help them get the same advantages that I have?
-
-
-#### Pricing rules of thumb
-
-- B2B SaaS: $49 / $99 / $249
-
-- Info product: $49 / $99 / $249
-
-- You should lose customers over pricing.
-  You *want* to hear that your product is too expensive for some folks.
 
 #### Bad reasons to charge less
 
@@ -134,20 +162,12 @@
 
 - You think it'll reduce churn.
 
+- Your competitors charge less
+
 - It hurts your feelings when people say it's too expensive.
 
 - "Everybody knows this stuff"
 
-- You don't understand how businesses buy things:
-  https://training.kalzumeus.com/newsletters/archive/saas_pricing
-  The $80 delta makes absolutely no difference to the decisionmaker at the
-  agency. To you or me, $80 means a very nice dinner for that special someone.
-  To an employee, $80 of the company's money means absolutely nothing:
-  compared next to non-software items on the budget (e.g. a single employee's
-  salary) it is a joke, and economizing for the $80 a month a) achieves no
-  substantial business goal, b) does not result in a pat-on-the-head from the
-  boss, and c) does not result in the employee getting to go out to a marginal
-  dinner." (from patio11 post)
 
 #### Stories
 

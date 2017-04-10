@@ -1,10 +1,10 @@
 # Microconf 2016 Full Talk
 
-## V4 - Things that worked for me
+## V4.1 - Three stories
 
 - Opener
   - Long-time goal of mine. If I'm smiling, that's why.
-  - Wake up 
+  - Wake up
     - Close laptops
     - Stretch
     - Snap, clap, crack on 3
@@ -26,22 +26,13 @@
       - Median earnings of businesses started by people that do is twice as high
       - Median age of all respondants is 40, but jif is 36
       - Not statisticologist, jif makes you younger and richer
-  - What are you hoping to get out of talks?
-    - Motivation/inspiration
-      - Over and over in non-starters
-      - Not at all in starters
-      - When I feel fit enough, I'll start going to the gym
-      - “Someone once asked Somerset Maughham if he wrote on a schedule or only
-        when struck by inspiration. "I write only when inspiration strikes," he
-        replied. "Fortunately it strikes every morning at nine o'clock sharp.” 
-      - The War of Art, STeven Pressfield
 
 (Got here after 9.5 min total)
 
 - Advice for non-starters
   - My story of my first dollar online
     - Had no audience or experience
-    - Started using Vim, got obssessed
+    - Started using Vim, got obsessed
     - Helped coworkers
     - Lightning talk at the Boston Ruby Group
     - Gave a full conference talk
@@ -66,7 +57,7 @@
         - Docker for Total Beginners
         - Docker Distilled
         - Docker for Non-Programmers
-        - What I wish I'd known about Docker 
+        - What I wish I'd known about Docker
         - Why Docker Sucks And What You Want Instead
       - 2 big wins
         - Builds an audience who trusts you
@@ -84,39 +75,44 @@
       - Avoid side quests!
         - Don't write code.
         - Don't automate.
-      - Overwhelm/fear/analysis paralysis
-        - Raise your hand if you feel this
+      - Why might you not do this?
+        - Overwhelm/fear/analysis paralysis
+          - Raise your hand if you run a biz and still feel this
+          - From survey: What are you hoping to get out of talks?
+            - Motivation/inspiration
+              - Over and over in non-starters
+              - Not at all in starters
+              - When I feel fit enough, I'll start going to the gym
+              - “Someone once asked Somerset Maughham if he wrote on a schedule or only
+                when struck by inspiration. "I write only when inspiration strikes," he
+                replied. "Fortunately it strikes every morning at nine o'clock sharp.”
+              - The War of Art, Steven Pressfield
       - Email me if you need help
 
-(Took 24m to get here)
-
-- Clap exercise?
+- Clap exercise
 
 - Advice for started
-  - All the types of things I've created
-    - Screencast
-    - Coaching
-    - Membership site (will soon cross $2M in revenue)
-    - 2 B2C SaaS 
-    - Grown a B2B SaaS from $4k -> $12k
   - Raise prices
-    - The highest-leverage thing I've done on any product I've worked on is testing pricing
-    - Your pricing should make you uncomfortable
+    - FormKeep story
+      - Pay what you want
+      - Honor system $9 personal / $29 commercial
+      - $19 / form / month
+        - Penalized our best customers
+      - Tiers, bottom is $29 (huge win)
+      - Uber
+      - Losing $3B/year == $95/second
     - B2B SAAS: $49 / $99 / $249
-    - Info product: $49 / $99 / $249 
-    - Specific ideas:
-      - Add tiers
-      - Hide the lowest tier
-        - FormKeep
-        - Uber
-        - Losing $3B/year == $95/second
-        - Show graph of new trials
-  - Don't automate
-  - Teach a lot
+    - Info product: $49 / $99 / $249
+    - I like tiers
+      - Developers love metered pricing $3.4 pico dollars per instance hour per month
+      - Real people like predictable pricing
+  - Do things that don't scale
+    - Manual onboarding of first 50 Briefs customers
 
 
 - IDEAS/TODOS/SNIPPETS
-  - How I came to be on stage 
+  - I have stickers
+  - How I came to be on stage
   - Focus on the things that make me different
   - Why do I have an audience?
     - Because I teach
@@ -127,7 +123,7 @@
 
 - B2B SaaS: $49 / $99 / $249
 
-- Info product: $49 / $99 / $249 
+- Info product: $49 / $99 / $249
 
 - You should lose customers over pricing.
   You *want* to hear that your product is too expensive for some folks.
@@ -206,10 +202,3 @@ Editing existing defaults doesn't cause the same anxiety
 
 - Free price increase hand-holding
   - At least try it!
-
-## Notes sources
-
-
-
-
-

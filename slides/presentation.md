@@ -10,11 +10,15 @@
 
 ---
 
-![](gif-or-jif.png)
+![](income.png)
 
 ---
 
-![](launched-yet.png)
+![](how-long-work-on-product.png)
+
+---
+
+# This presents an interesting challenge
 
 ---
 
@@ -66,11 +70,19 @@
 
 ---
 
-# Coordination test
+![fit](war-of-art.jpg)
 
 ---
 
-# Advice for those who have started
+# Break time! 
+
+---
+
+# Part 2: Advice for those who have started
+
+---
+
+# If I could *make* you do one thing...
 
 ---
 
@@ -90,4 +102,26 @@
 
 ---
 
-# Tip: <br/> Put a recurring event on your calendar to run a pricing test
+# It's *not* just *me*
+
+---
+
+# John Norman, Ghost
+
+## $750k ARR
+
+---
+
+# Tip: <br/> Create a recurring reminder to run a pricing test every 6 months
+
+---
+
+# Summary
+
+---
+
+# Don't be shy
+
+## @r00k
+
+## ben@benorenstein.com

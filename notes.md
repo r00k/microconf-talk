@@ -1,14 +1,12 @@
 # Microconf 2016 Full Talk
 
-## V4.1 - Three stories
+## V4.2 - Lessons and Stories 
 
 - Opener
-  - Long-time goal of mine. If I'm smiling, that's why.
   - Wake up
     - Close laptops
     - Stretch
     - Snap, clap, crack on 3
-    - Please keep laptop closed
   - Interrupt me
 
 (takes 3 min to get here)
@@ -18,15 +16,15 @@
   - V4
   - Customer research
   - Numbers
-    - 74% / 26% of you pronounce gif incorrectly
-      - Median earnings of businesses started by people that do is twice as high
-      - Median age of all respondants is 40, but jif is 36
-      - Not statisticologist, jif makes you younger and richer
+    > - 74% / 26% of you pronounce gif incorrectly
+    >   - Median earnings of businesses started by people that do is twice as high
+    >   - Median age of all respondants is 40, but jif is 36
+    >   - Not statisticologist, jif makes you younger and richer
     - 54% earning from digital product / 46% not
       - Of those, 48% less than $1k/mo, 59% less than $3k/mo
       - Fairly new at this: 59% less than 0-2 years
     - Going to share more info from survey later in talk
-  - Going to try to help both of you
+
 
 (Got here after 9.5 min total)
 
@@ -83,6 +81,7 @@
       - Avoid side quests!
         - Don't write code.
         - Don't automate.
+        - Use Coach?
       - Why might you not do this?
         - From survey: What are you hoping to get out of talks?
           - Motivation/inspiration
@@ -100,7 +99,10 @@
 - Home stretch! 
 
 - Advice for started
-  - Raise prices
+  - If I could make you do ONE thing: test raising prices
+    - Highest leverage thing I've done
+    - If I created a new B2B SaaS: $49/$99/$249
+    - If I created an info product: same
     - FormKeep's pricing models
       - Pay what you want
       - Honor system $9 personal / $29 commercial
@@ -112,7 +114,7 @@
       - Uber
         - Losing $3B/year == $95/second
         - Paying us $29 / month
-        - Hid lowest tier, now it's $59/month
+        - Hid lowest tier, now it's $59/month (double)
         - New trials went down slightly, but more than made up for in ARPU
     - Upcase, other way
       - We had 18%-20% churn constantly
@@ -127,22 +129,20 @@
       - Put a reminder on your calendar for every 6 months to test pricing
       - Here's your first test: double your prices
         - Don't even have to charge new amount, just update pricing page
-    - Bad reasons to not raise your prices
+    - Reasons you'll balk
       - You're worried about existing cust. or people seeing diff prices
         - Easy support issue
       - Your competitor charges less
         - FormKeep has a competitor that charges $9.99, none of our customers have heard of them
           - They're cheap but bad at marketing, so their pricing is irrelevant
-      - You don't understand how businesses buy things:
-        https://training.kalzumeus.com/newsletters/archive/saas_pricing
-        The $80 delta makes absolutely no difference to the decisionmaker at the
-        agency. To you or me, $80 means a very nice dinner for that special someone.
-        To an employee, $80 of the company's money means absolutely nothing:
-        compared next to non-software items on the budget (e.g. a single employee's
-        salary) it is a joke, and economizing for the $80 a month a) achieves no
-        substantial business goal, b) does not result in a pat-on-the-head from the
-        boss, and c) does not result in the employee getting to go out to a marginal
-        dinner." (from patio11 post)
+    - Social proof
+      - John Norman
+        "One key lesson we learned early on was not to charge too little. $5/month
+        customers are just terrible. They have the highest rate of failed payments,
+        the highest rate of credit card fraud, the highest amount of support tickets
+        submitted, and are the least friendly people. We've doubled our prices 3x
+        since then, and each time we do, we get nicer people who value the product
+        more and create fewer problems."
 
 - Conclusion
   - That's my talk
@@ -154,6 +154,73 @@
     - Put a reminder on your calendar to test pricing ever 6 months
     - When you test, prefer tests that raise prices
   - If you're in either group and you need help: email me
+
+
+
+
+Changes:
+
+- Make second half chock full of tips (WHAT'S WORKED FOR ME, OVER THE YEARS?)
+  - (spend WAY less time on pricing, bro)
+  - Haven't started? You get very simple and prescriptive advice
+     - Biggest mistakes
+       - Not starting
+         - No product guarantees $0 revenue
+         - Only way to guarantee $0 revenue is not to start!
+       - Waiting for inspiration
+       - Analysis paralysis - "I need more data/info/planning"
+  - Folks who have started, harder to know what they should focus on 
+  - But you PROBABLY...
+    - Charge too little
+    - Don't market enough
+      - Classic example, launching a new feature
+      - Baremetrics kills this
+      - Tiny marketing wins, good for eating veggies
+    - Pay too little attention to folks after they sign up
+    - Send too few emails
+      - Upcase Dream Job
+    - Don't announce new features loudly enough
+  - Send annual upgrade offer on day 86
+  - Use faces on landing pages
+  - Upcase discounted annual plan offer
+  - Partnerships
+    - Zapier
+    - Upcase/RubyTapas 
+  - Watch folks sign up for your product
+    - Lessons from when I did it for Briefs
+  - Podcasting pulls good weight 
+  - Meta tip: Double down on what's working
+    - Snappa story
+
+- Add graphs of current revenue
+  - bar chart, with half the folks at $0/month
+    - makes it really clear the distribution of reveneu in the audience
+    
+
+
+Prep:
+
+- Note in notes where slide change should happen
+- Practice end to end 3x
+- Print notes in large font
+- Resolve having a place to put them
+- Send slides to Xander
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - IDEAS/TODOS/SNIPPETS
   - Focus on the things that make me different
@@ -178,12 +245,12 @@
 
 #### Stories
 
-- One key lesson we learned early on was not to charge too little. $5/month
-  customers are just terrible. They have the highest rate of failed payments,
-  the highest rate of credit card fraud, the highest amount of support tickets
-  submitted, and are the least friendly people. We've doubled our prices 3x
-  since then, and each time we do, we get nicer people who value the product
-  more and create fewer problems.
+One key lesson we learned early on was not to charge too little. $5/month
+customers are just terrible. They have the highest rate of failed payments,
+the highest rate of credit card fraud, the highest amount of support tickets
+submitted, and are the least friendly people. We've doubled our prices 3x
+since then, and each time we do, we get nicer people who value the product
+more and create fewer problems.
   https://www.indiehackers.com/businesses/ghost
 
 - Bidsketch
@@ -216,16 +283,3 @@ Less text is generally better, since it's more likely to actually be read
 
 Default stuff in
 Editing existing defaults doesn't cause the same anxiety
-
-
-## Ideas/todos
-
-- Van Westendorp survey
-
-- Tips for networking at MicroConf
-
-- Add other topics
-  - Manual onboarding
-
-- Free price increase hand-holding
-  - At least try it!

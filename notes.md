@@ -108,7 +108,7 @@
         - Penalized our best customers
       - Tiers, bottom is $29 (huge win)
         - Ungrandfathered
-        - MRR DOUBLED IN A DAY!
+        - MRR went up 20% in a day
       - Uber
         - Losing $3B/year == $95/second
         - Paying us $29 / month
@@ -130,7 +130,6 @@
     - Bad reasons to not raise your prices
       - You're worried about existing cust. or people seeing diff prices
         - Easy support issue
-      - It hurts your feelings when people say it's too expensive.
       - Your competitor charges less
         - FormKeep has a competitor that charges $9.99, none of our customers have heard of them
           - They're cheap but bad at marketing, so their pricing is irrelevant

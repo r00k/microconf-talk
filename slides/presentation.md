@@ -50,20 +50,44 @@
 
 ---
 
-# Use Leanpub
-
 ![fit](leanpub.png)
 
 ---
 
-# What's holding you back?
+![fit](upcase-all-time.png)
 
 ---
 
-# A challenge for you
+![fit](fake-all-time.png)
+
+---
+
+# Let's talk about *inspiration*
+
+---
+
+# Coordination test
+
+---
+
+# Advice for those who have started
 
 ---
 
 ![fit](formkeep.png)
 
+---
 
+![fit](formkeep-mrr.png)
+
+---
+
+![fit](new-trials.png)
+
+---
+
+![fit](upcase-mrr.png)
+
+---
+
+# Tip: <br/> Put a recurring event on your calendar to run a pricing test

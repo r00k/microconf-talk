@@ -14,10 +14,6 @@
 
 ---
 
-![](how-long-work-on-product.png)
-
----
-
 # This presents an interesting challenge
 
 ---
@@ -30,7 +26,7 @@
 
 ---
 
-# How I Earned My First Dollar from a Stranger on the Internet
+# How I Started
 
 ---
 
@@ -56,17 +52,19 @@
 
 ---
 
-# Tip: small is beautiful
-
----
-
 # Three wins in this phase
 
 ---
 
-# How I'd Start Over
+# Phase 2: Pre-sell an info product
 
-## Phase 2: Pre-sell an info product
+---
+
+# Victory at this stage is selling 1 copy to 1 stranger
+
+---
+
+# Tip: small is beautiful
 
 ---
 
@@ -75,10 +73,6 @@
 ---
 
 ![fit](leanpub.png)
-
----
-
-# Victory at this stage is selling 1 copy to 1 stranger
 
 ---
 
@@ -118,14 +112,6 @@
 
 ---
 
-# Lower prices <br> == <br> higher churn
-
----
-
-![fit](upcase-mrr.png)
-
----
-
 # Don't sell things to businesses for less than $49/month
 
 ---
@@ -135,6 +121,8 @@
 ---
 
 # Double down on things that work
+
+![fit](blackjack.jpg)
 
 ---
 
@@ -153,6 +141,14 @@
 ---
 
 # Put faces on landing pages
+
+---
+
+![fit](faces.png)
+
+---
+
+![fit](face2.png)
 
 ---
 

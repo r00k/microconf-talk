@@ -35,7 +35,7 @@
           - Builds authority unfairly quickly
           - "One of the foremost voices on refactoring"
         - Host a free online workshop
-      - Aim small! Titles:
+      - Aim small! Titles: (FEELS WEIRD HERE, MOVE?)
         - A Docker Crash Course
         - Surviving Your First Week in Docker
         - Docker for Total Beginners

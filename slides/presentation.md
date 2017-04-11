@@ -96,15 +96,15 @@
 
 ---
 
-# Part 2: Growing a Full-time Income
+# Part 2: Advice for those who've started
 
 ---
 
-# Create a recurring reminder to run a pricing test every 6 months
+# 1. Create a recurring reminder to run a pricing test every 6 months
 
 ---
 
-# Hide your cheapest plan/tier
+# Your first test: hide your cheapest plan/tier
 
 ---
 
@@ -112,35 +112,28 @@
 
 ---
 
-# Don't sell things to businesses for less than $49/month
+# In general: don't sell things to businesses for less than $49/month
 
 ---
 
-# Eat your (marketing) veggies
+# 2. Create an email course
+
+![fit](email-course.png)
 
 ---
 
-# Double down on things that work
 
-![fit](blackjack.jpg)
-
----
-
-# Create an email course
-
----
-
-# Integrate and partner
+# 3. Integrate and partner
 
 ## Look for win/wins
 
 ---
 
-# Two great times to upsell to <br> an annual plan ($$$)
+# 4. Sell annual plans
 
 ---
 
-# Put faces on landing pages
+# 5. Put faces on landing pages
 
 ---
 
@@ -152,19 +145,25 @@
 
 ---
 
-# Try to save churning customers
+# 6. Try to save churning customers
 
 ---
 
-# Start a podcast
+# 7. Start a podcast
 
 ---
 
-# Manually onboard customers
+# 8. Manually onboard customers
 
 ---
 
-# Ask for help
+# 9. Double down on things that work
+
+![fit](blackjack.jpg)
+
+---
+
+# 10. Ask for help
 
 ## @r00k
 

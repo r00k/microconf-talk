@@ -35,14 +35,6 @@
           - Builds authority unfairly quickly
           - "One of the foremost voices on refactoring"
         - Host a free online workshop
-      - Aim small! Titles: (FEELS WEIRD HERE, MOVE?)
-        - A Docker Crash Course
-        - Surviving Your First Week in Docker
-        - Docker for Total Beginners
-        - Docker Distilled
-        - Docker for Non-Programmers
-        - What I wish I'd known about Docker
-        - Why Docker Sucks And What To Use Instead
       - 3 big wins
         - Builds an audience who trusts you
         - Helps you learn more about your potential customer
@@ -52,7 +44,14 @@
         - Improves your teaching
     - Get silent to see who's not listening
     - Phase 2: 
-      - Let's say you choose to make an ebook
+      - Aim small! Titles
+        - A Docker Crash Course
+        - Surviving Your First Week in Docker
+        - Docker for Total Beginners
+        - Docker Distilled
+        - Docker for Non-Programmers
+        - What I wish I'd known about Docker
+        - Why Docker Sucks And What To Use Instead
       - By the end of the trip, you want to be able to be paid
       - Get an Airbnb
         - Get 4 days (intentionally short!)
@@ -169,13 +168,6 @@ Changes:
   - Watch folks sign up for your product
     - Lessons from when I did it for Briefs
   - Podcasting pulls good weight 
-  - Meta tip: Double down on what's working
-    - Snappa story
-
-- Add graphs of current revenue
-  - bar chart, with half the folks at $0/month
-    - makes it really clear the distribution of reveneu in the audience
-    
 
 
 Prep:

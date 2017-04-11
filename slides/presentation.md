@@ -32,6 +32,18 @@
 
 ---
 
+# How I started
+
+---
+
+![fit](railsconf-talk.jpg)
+
+---
+
+![fit](vim-for-rails-devs.png)
+
+---
+
 # How I'd Start Over
 
 ## Phase 1: Teach

@@ -18,14 +18,15 @@
   - V4
   - Customer research
   - Numbers
-    - 54% earning from digital product / 46% not
-      - Of those, 48% less than $1k/mo, 59% less than $3k/mo
-      - Fairly new at this: 59% less than 0-2 years
-      - Going to try to help both groups
     - 74% / 26% of you pronounce gif incorrectly
       - Median earnings of businesses started by people that do is twice as high
       - Median age of all respondants is 40, but jif is 36
       - Not statisticologist, jif makes you younger and richer
+    - 54% earning from digital product / 46% not
+      - Of those, 48% less than $1k/mo, 59% less than $3k/mo
+      - Fairly new at this: 59% less than 0-2 years
+    - Going to share more info from survey later in talk
+  - Going to try to help both of you
 
 (Got here after 9.5 min total)
 
@@ -41,6 +42,7 @@
     - Made a screencast for $9 on Shopify
     - Vim for Rails Devs, very niche
     - TRANSFORMATIVE
+    - Did some things right by accident
   - If I were starting over today, here's what I'd do
     - There are two phases
     - Phase 1: start teaching a topic you care about
@@ -51,6 +53,8 @@
       - How do you teach?
         - Do a lunch and learn with your coworkers
         - Give a lightning talk at a meetup
+          - Builds authority unfairly quickly
+          - "One of the foremost voices on refactoring"
         - Host a free online workshop
       - Aim small! Titles:
         - A Docker Crash Course
@@ -62,9 +66,13 @@
         - Why Docker Sucks And What To Use Instead
       - 2 big wins
         - Builds an audience who trusts you
-        - Helps you learn more about your customer
+        - Helps you learn more about your potential customer
+          - What are they excited about?
+          - Do you like them?
+          - What are their problems?
     - Get silent to see who's not listening
     - Phase 2: build an MVP that you can get paid for
+      - Codecation story
       - Let's say you choose to make an ebook
       - By the end of the trip, you want to be able to be paid
       - Get an Airbnb
@@ -77,17 +85,15 @@
         - Don't write code.
         - Don't automate.
       - Why might you not do this?
-        - Overwhelm/fear/analysis paralysis
-          - Raise your hand if you run a biz and still feel this
-          - From survey: What are you hoping to get out of talks?
-            - Motivation/inspiration
-              - Over and over in non-starters
-              - Not at all in starters
-              - When I feel fit enough, I'll start going to the gym
-              - “Someone once asked Somerset Maughham if he wrote on a schedule or only
-                when struck by inspiration. "I write only when inspiration strikes," he
-                replied. "Fortunately it strikes every morning at nine o'clock sharp.”
-              - The War of Art, Steven Pressfield
+        - From survey: What are you hoping to get out of talks?
+          - Motivation/inspiration
+            - Over and over in non-starters
+            - Not at all in starters
+            - When I feel fit enough, I'll start going to the gym
+            - “Someone once asked Somerset Maughham if he wrote on a schedule or only
+              when struck by inspiration. "I write only when inspiration strikes," he
+              replied. "Fortunately it strikes every morning at nine o'clock sharp.”
+            - The War of Art, Steven Pressfield
       - Email me if you need help
 
 - Clap exercise
@@ -102,6 +108,8 @@
       - $19 / form / month
         - Penalized our best customers
       - Tiers, bottom is $29 (huge win)
+        - Ungrandfathered
+        - MRR DOUBLED IN A DAY!
       - Uber
         - Losing $3B/year == $95/second
         - Paying us $29 / month
@@ -121,7 +129,12 @@
       - Here's your first test: double your prices
         - Don't even have to charge new amount, just update pricing page
     - Bad reasons to not raise your prices
+      - You're worried about existing cust. or people seeing diff prices
+        - Easy support issue
       - It hurts your feelings when people say it's too expensive.
+      - Your competitor charges less
+        - FormKeep has a competitor that charges $9.99, none of our customers have heard of them
+          - They're cheap but bad at marketing, so their pricing is irrelevant
       - You don't understand how businesses buy things:
         https://training.kalzumeus.com/newsletters/archive/saas_pricing
         The $80 delta makes absolutely no difference to the decisionmaker at the
@@ -132,10 +145,6 @@
         substantial business goal, b) does not result in a pat-on-the-head from the
         boss, and c) does not result in the employee getting to go out to a marginal
         dinner." (from patio11 post)
-      - Your competitor charges less
-        - FormKeep has a competitor that charges $9.99, none of our customers have heard of them
-          - They're cheap but bad at marketing, so their pricing is irrelevant
-      - You know how simple your code is
 
 - Conclusion
   - That's my talk

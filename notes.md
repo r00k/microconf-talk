@@ -72,7 +72,6 @@
           - What are their problems?
     - Get silent to see who's not listening
     - Phase 2: build an MVP that you can get paid for
-      - Codecation story
       - Let's say you choose to make an ebook
       - By the end of the trip, you want to be able to be paid
       - Get an Airbnb

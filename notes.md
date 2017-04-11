@@ -1,27 +1,15 @@
 # Microconf 2016 Full Talk
 
-## V4.2 - Lessons and Stories 
-
-- Opener
+- Opener (3m)
   - Wake up
     - Close laptops
     - Stretch
     - Snap, clap, crack on 3
   - Interrupt me
 
+- Survey results
+
 - Advice for non-starters
-  - My story of my first dollar online
-    - Had no audience or experience
-    - Started using Vim, got obsessed
-    - Helped coworkers
-    - Lightning talk at the Boston Ruby Group
-    - Gave a full conference talk
-      - Well-attended, people liked it
-    - Becoming the vim guy
-    - Made a screencast for $9 on Shopify
-    - Vim for Rails Devs, very niche
-    - TRANSFORMATIVE
-    - Did some things right by accident
   - If I were starting over today, here's what I'd do
     - There are two phases
     - Phase 1: start teaching a topic you care about

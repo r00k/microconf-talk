@@ -16,11 +16,7 @@
 
 ---
 
-# This presents an interesting challenge
-
----
-
-# The plan
+# [fit] The plan
 
 ## Haven't started: prescriptive
 
@@ -28,15 +24,11 @@
 
 ---
 
-# How I Started
+# [fit] The payoff
 
----
+## Haven't started: clear process
 
-![](railsconf-talk.jpg)
-
----
-
-![fit](vim-for-rails-devs.png)
+## Launched already: my best tactics
 
 ---
 
@@ -66,7 +58,7 @@
 
 ---
 
-# Tip: small is beautiful
+# Tip: small is beautiful :)
 
 ---
 
@@ -90,9 +82,7 @@
 
 ---
 
-# [fit] Part 2:
-
-## Ten Things That Worked For Me
+# [fit] Part 2: My <br> Ten <br> Best Tactics
 
 ---
 

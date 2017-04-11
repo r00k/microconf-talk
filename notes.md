@@ -9,25 +9,6 @@
     - Snap, clap, crack on 3
   - Interrupt me
 
-(takes 3 min to get here)
-
-- Survey results
-  - Not about me, about you
-  - V4
-  - Customer research
-  - Numbers
-    > - 74% / 26% of you pronounce gif incorrectly
-    >   - Median earnings of businesses started by people that do is twice as high
-    >   - Median age of all respondants is 40, but jif is 36
-    >   - Not statisticologist, jif makes you younger and richer
-    - 54% earning from digital product / 46% not
-      - Of those, 48% less than $1k/mo, 59% less than $3k/mo
-      - Fairly new at this: 59% less than 0-2 years
-    - Going to share more info from survey later in talk
-
-
-(Got here after 9.5 min total)
-
 - Advice for non-starters
   - My story of my first dollar online
     - Had no audience or experience
@@ -47,7 +28,7 @@
       - What should you teach?
         - Something that 6-months-ago you would have found useful
         - Something people ask you for help with
-        - Something you can't stop talking about
+        - Something you think is interesting that bores others
       - How do you teach?
         - Do a lunch and learn with your coworkers
         - Give a lightning talk at a meetup
@@ -62,14 +43,15 @@
         - Docker for Non-Programmers
         - What I wish I'd known about Docker
         - Why Docker Sucks And What To Use Instead
-      - 2 big wins
+      - 3 big wins
         - Builds an audience who trusts you
         - Helps you learn more about your potential customer
           - What are they excited about?
           - Do you like them?
           - What are their problems?
+        - Improves your teaching
     - Get silent to see who's not listening
-    - Phase 2: build an MVP that you can get paid for
+    - Phase 2: 
       - Let's say you choose to make an ebook
       - By the end of the trip, you want to be able to be paid
       - Get an Airbnb
@@ -81,7 +63,6 @@
       - Avoid side quests!
         - Don't write code.
         - Don't automate.
-        - Use Coach?
       - Why might you not do this?
         - From survey: What are you hoping to get out of talks?
           - Motivation/inspiration
@@ -165,10 +146,9 @@ Changes:
   - Haven't started? You get very simple and prescriptive advice
      - Biggest mistakes
        - Not starting
-         - No product guarantees $0 revenue
          - Only way to guarantee $0 revenue is not to start!
        - Waiting for inspiration
-       - Analysis paralysis - "I need more data/info/planning"
+       - You are not short on information you are short on execution
   - Folks who have started, harder to know what they should focus on 
   - But you PROBABLY...
     - Charge too little

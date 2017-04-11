@@ -1,12 +1,14 @@
-# How I'd start over
+# [fit] Prescriptions <br>and<br> Descriptions
 
-### v5.0
-
-#### Ben Orenstein, thoughtbot
+### Ben Orenstein, thoughtbot
 
 ---
 
 # Let's go!
+
+---
+
+# Interaction is *encouraged*
 
 ---
 
@@ -20,9 +22,9 @@
 
 # The plan
 
-## Haven't started: narrow
+## Haven't started: prescriptive
 
-## Lauched already: wide
+## Lauched already: descriptive
 
 ---
 
@@ -44,7 +46,7 @@
 
 ---
 
-# *What* should you teach?
+# How to pick a topic
 
 ---
 
@@ -60,7 +62,7 @@
 
 ---
 
-# Victory at this stage is selling 1 copy to 1 stranger
+# Goal: <br> sell *one* copy <br> to *one* stranger
 
 ---
 
@@ -76,14 +78,6 @@
 
 ---
 
-# Classic mistakes at this stage
-
----
-
-# *Don't* think about replacing your income
-
----
-
 # *Don't* wait for inspiration
 
 ---
@@ -96,7 +90,9 @@
 
 ---
 
-# Part 2: Advice for those who've started
+# [fit] Part 2:
+
+## Ten Things That Worked For Me
 
 ---
 
@@ -133,7 +129,7 @@
 
 ---
 
-# 5. Put faces on landing pages
+# 5. Put faces near things you want clicked
 
 ---
 
@@ -145,7 +141,7 @@
 
 ---
 
-# 6. Try to save churning customers
+# 6. Rescue churned customers
 
 ---
 

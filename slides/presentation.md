@@ -8,10 +8,6 @@
 
 ---
 
-# Interaction is *encouraged*
-
----
-
 ![](income.png)
 
 ---
@@ -37,6 +33,10 @@
 ---
 
 ![fit](railsconf-talk.jpg)
+
+---
+
+![fit](first-sale.png)
 
 ---
 
@@ -110,10 +110,6 @@
 
 ---
 
-# In general: don't sell things to businesses for less than $49/month
-
----
-
 # 2. Create an email course
 
 ![fit](email-course.png)
@@ -143,7 +139,7 @@
 
 ---
 
-# 6. Rescue churned customers
+# 6. Try a diving save
 
 ---
 
